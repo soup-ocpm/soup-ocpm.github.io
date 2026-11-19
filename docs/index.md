@@ -21,4 +21,4 @@ The SOUP project includes integration with **Neo4j** and **Memgraph**. Available
 
 ## Where to go next
 
-Start with [Getting started](getting-started/index.md), or browse [Datasets and workspaces](concepts/datasets.md) and [Graph Explorer](packages/graph-explorer.md).
+Start with [Getting started](getting-started/index.md), or browse [Datasets and workspaces](concepts/datasets.md) and [Graph Explorer](packages/details/graph-explorer.md).

@@ -73,7 +73,7 @@ input {
 
 .brand-mark {
     width: 34px;
-    height: 34px;
+    height: 40px;
     display: inline-grid;
     place-items: center;
     background: #3b82f6;
@@ -84,7 +84,7 @@ input {
 
 .brand-logo {
     width: 34px;
-    height: 34px;
+    height: 40px;
     background-image: url(../assets/icon.png);
     background-size: cover;
     border-radius: 10px;
@@ -212,6 +212,12 @@ input {
     font-weight: 750
 }
 
+.nav-packages {
+    list-style: none;
+    margin: 0 0 0 14px;
+    padding: 0
+}
+
 .sidebar-bottom {
     margin-top: auto;
     border-top: 1px solid var(--border);
@@ -316,6 +322,16 @@ input {
     padding: 3px 5px;
     border-radius: 4px;
     font-size: .86em
+}
+
+.doc-diagram {
+    margin: 1.25em 0;
+    overflow-x: auto
+}
+
+.doc-diagram svg {
+    display: block;
+    margin-inline: auto
 }
 
 .doc-content pre {

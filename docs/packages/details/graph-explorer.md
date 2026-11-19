@@ -23,4 +23,4 @@ The project has discussed the following improvements for Graph Explorer. **Treat
 > **Feature availability**
 > Confirm features against the package currently installed in your instance. This page does not claim the proposed functionality has shipped.
 
-For backend limitations, see [Graph backends](../concepts/graph-backends.md).
+For backend limitations, see [Graph backends](../../concepts/graph-backends.md).
